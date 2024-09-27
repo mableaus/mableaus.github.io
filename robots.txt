@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mableaus.github.io/sitemap.mableaus.gz
+Sitemap: https://mableaus.github.io/app/sitemap.mableaus.gz
+Sitemap: https://mableaus.github.io/assets/sitemap.mableaus.gz
+Sitemap: https://mableaus.github.io/css/sitemap.mableaus.gz
+Sitemap: https://mableaus.github.io/data/sitemap.mableaus.gz
+Sitemap: https://mableaus.github.io/includes/sitemap.mableaus.gz
+Sitemap: https://mableaus.github.io/item/sitemap.mableaus.gz
+Sitemap: https://mableaus.github.io/src/sitemap.mableaus.gz
